@@ -6,7 +6,7 @@ class list {
     "Shows Recommended For You",
     "Popular Movies",
     "Best of Foreign Shows Dubbed",
-    "Hotstar Special",
+    "Hotstar Specials",
     "New on Disney+ Hotstar",
     "Multiplex Movies",
     "Quix Shows",
