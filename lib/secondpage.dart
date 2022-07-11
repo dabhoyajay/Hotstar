@@ -90,7 +90,7 @@ class _secondpageState extends State<secondpage> {
   Widget build(BuildContext context) {
     return Scaffold(
       extendBodyBehindAppBar: true,
-      backgroundColor: Colors.transparent,
+      backgroundColor: Colors.black,
       body: PreferredSize(
         preferredSize: Size.fromHeight(50.0),
         child: NestedScrollView(
