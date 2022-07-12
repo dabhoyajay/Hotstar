@@ -5,6 +5,7 @@ import 'firstpage.dart';
 
 void main() {
   runApp(MaterialApp(
+    debugShowCheckedModeBanner: false,
     home: splash(),
   ));
 }
